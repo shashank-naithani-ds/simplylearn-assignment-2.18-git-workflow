@@ -10,8 +10,9 @@ Step: 1  create a file example.txt
 Step: 2  Check the status, git will show untracked files.
 Step: 3  Now Add file to stagging area with $ git add example.txt
 Step: 4  Check the status, git will show tracked files.
-Step: 5  Now remove from file stagging area so that it becomes untracked again. with $ git rm --cached example.txt
-Step: 6  Check the status, git will show untracked files.
+Step: 5  Commit the file for screenshot in the history by $ git commit -m "Initial Upload example.txt file"
+Step: 6  Now remove from file stagging area so that it becomes untracked again. with $ git rm --cached example.txt
+Step: 7  Check the status, git will show untracked files.
 
 
 End of assignment.

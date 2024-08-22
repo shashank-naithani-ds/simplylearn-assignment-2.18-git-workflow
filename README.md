@@ -13,6 +13,7 @@ Step: 4  Check the status, git will show tracked files.
 Step: 5  Commit the file for screenshot in the history by $ git commit -m "Initial Upload example.txt file"
 Step: 6  Now remove from file stagging area so that it becomes untracked again. with $ git rm --cached example.txt
 Step: 7  Check the status, git will show untracked files.
+Step: 8 Check your log for history $ git log --oneline
 
 
 End of assignment.
